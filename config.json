@@ -1,0 +1,9 @@
+{
+    "token": "ODg2Mjg2Mjc1NTAwNDYyMTUw.YTzYag.oMy31Aslnyz1MxhZHkIyfVIeF7w",
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "glrp"
+    }
+}
